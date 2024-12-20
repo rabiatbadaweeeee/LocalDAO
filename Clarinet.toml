@@ -10,6 +10,11 @@ path = 'contracts/budget-tracking.clar'
 clarity_version = 2
 epoch = 2.5
 
+[contracts.community-governance]
+path = 'contracts/community-governance.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.community-token]
 path = 'contracts/community-token.clar'
 clarity_version = 2

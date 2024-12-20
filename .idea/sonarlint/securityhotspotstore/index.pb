@@ -9,3 +9,7 @@ N
 contracts/budget-tracking.clar,b/d/bdae62582c59d598bc1edb9ff6267b706437b6ed
 M
 tests/budget-tracking.test.ts,d/3/d32da6f9d16716ffae5b5c6dfd7f07b24abd4fc6
+R
+"tests/community-governance.test.ts,0/f/0fc036f8259f9323a860ba35619d050e835602bf
+S
+#contracts/community-governance.clar,d/d/ddd246b138b74b0dbd34dc2b0ab8a3af4dc5843f
